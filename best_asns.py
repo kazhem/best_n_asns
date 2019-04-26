@@ -3,7 +3,6 @@ import csv
 import pyasn
 import heapq
 import time
-from ipwhois import IPWhois
 
 
 def get_or_create_asn(asns, asn):
